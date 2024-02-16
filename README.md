@@ -29,12 +29,3 @@ This formula for `virt-manager` does not include the `openssh-askpass` dependenc
 #### Why can't I connect to a local URI (*e.g.*, qemu:///system)?
 
 I've not yet tested `virt-manager` against any local URIs/hypervisors. If you get `virt-manager` working with a local hypervisor and needed to take any special steps, feel free to share the details.
-
-#### Everything was working yesterday, but it's not working today, can you help?
-
-If `virt-manager` or its dependencies have been upgraded recently (`brew upgrade`), it's possible that a reinstall may fix the issue (see [#39](https://github.com/jeffreywildman/homebrew-virt-manager/issues/39)).
-
-[homebrew]: http://brew.sh/
-[virt-manager]: https://virt-manager.org/
-[virt-viewer]: https://virt-manager.org/
-[jedi]: http://www.jedi.be/blog/2011/09/13/libvirt-fog-provider/#macosx-remote-libvirt-client-
