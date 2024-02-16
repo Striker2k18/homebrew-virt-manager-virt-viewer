@@ -5,7 +5,7 @@ A set of [homebrew][homebrew] formulae to install [`virt-manager`][virt-manager]
 
 ## Usage
 
-    brew tap jeffreywildman/homebrew-virt-manager
+    brew tap Striker2k18/homebrew-virt-manager-virt-viewer
     brew install virt-manager virt-viewer
     virt-manager -c test:///default
 
